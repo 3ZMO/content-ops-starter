@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: '3ZMO Holdings, LLC'
       color: text-dark
       styles:
         self:
