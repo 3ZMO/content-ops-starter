@@ -214,7 +214,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/3ZMO Logo SMALL2.svg
+      url: /images/3ZMO Logo Layers for Drop Shadow.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
