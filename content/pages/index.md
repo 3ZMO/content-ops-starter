@@ -202,7 +202,7 @@ sections:
       text: Make the Box
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Sometimes...
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
