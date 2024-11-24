@@ -240,7 +240,7 @@ sections:
       text: Reach Out
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: We would love to hear from you
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
