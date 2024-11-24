@@ -112,7 +112,7 @@ sections:
       text: Imagine Apps that are more personal
       color: text-dark
       type: TitleBlock
-    subtitle: ...your Friend
+    subtitle: ...your friend
     text: >
       When Apps become your personal friend and partner, helping you succeed in
       life and in business.
