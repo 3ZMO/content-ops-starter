@@ -137,7 +137,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/heropic.png
+      url: /images/heropic2DropShadow.png
       altText: Unblock your imagination
       elementId: ''
       type: ImageBlock
