@@ -214,7 +214,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/3ZMO Logo SMALL3.svg
+      url: /images/3ZMO Logo SMALL2.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
