@@ -138,7 +138,7 @@ sections:
         type: Link
     media:
       url: /images/heropic.png
-      altText: Unblock your team boost your time to production preview
+      altText: Unblock your imagination
       elementId: ''
       type: ImageBlock
     badge:
