@@ -145,7 +145,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/grabcool4png.png
+      - url: /images/grabcool.svg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
