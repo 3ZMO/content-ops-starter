@@ -37,7 +37,7 @@ sections:
     styles:
       self:
         alignItems: center
-slug: empty
+slug: makebox
 isDraft: false
 seo:
   type: Seo
