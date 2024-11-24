@@ -109,7 +109,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Imagine Apps that are more personal
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
