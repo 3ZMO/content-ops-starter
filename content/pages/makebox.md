@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Make a Box
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: 'Print, Cut, Fold, Tape'
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
