@@ -215,7 +215,7 @@ sections:
         type: Button
       - label: See Tutorials
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
