@@ -204,8 +204,8 @@ sections:
       type: TitleBlock
     subtitle: Sometimes...
     text: >
-      instead of working inside or outside of the box, you have to flatten the
-      box and remake it yourself.
+      ...instead of working inside or outside of the box, you have to flatten
+      the box and remake it yourself.
     actions:
       - label: Make a Box
         url: /makebox
@@ -218,7 +218,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: Innovation
+      label: '[Innovation]'
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
