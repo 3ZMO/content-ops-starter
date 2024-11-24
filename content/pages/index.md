@@ -65,7 +65,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Domain
-        subtitle: Faster
+        subtitle: Properties
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
