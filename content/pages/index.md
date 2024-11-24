@@ -207,7 +207,7 @@ sections:
       instead of working inside or outside of the box, you have to smash the box
       and remake it yourself.
     actions:
-      - label: Get started
+      - label: Make a Box
         url: /
         icon: arrowRight
         iconPosition: right
