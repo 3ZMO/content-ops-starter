@@ -157,7 +157,7 @@ sections:
       - url: /images/EverVegan.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/ClickBit.svg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
