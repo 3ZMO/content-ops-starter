@@ -10,7 +10,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Generating Useful, Productive, and Fun Applications'
+    subtitle: 'Useful, Productive, and Fun Applications'
     items:
       - type: FeaturedItem
         title: Ai
