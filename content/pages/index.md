@@ -218,7 +218,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: Innovation
+      label: '[Innovation]'
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
