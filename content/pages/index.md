@@ -151,7 +151,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/million.cool.svg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/EverVegan.svg
