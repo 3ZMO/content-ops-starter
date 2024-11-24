@@ -148,7 +148,7 @@ sections:
       - url: /images/grabcool.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/InstaVote.svg
         altText: Telus logo
         type: ImageBlock
       - url: /images/million.cool.svg
