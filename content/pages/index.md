@@ -204,8 +204,8 @@ sections:
       type: TitleBlock
     subtitle: Sometimes...
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      instead of working inside or outside of the box, you have to smash the box
+      and make it yourself.
     actions:
       - label: Get started
         url: /
