@@ -208,7 +208,7 @@ sections:
       and remake it yourself.
     actions:
       - label: Make a Box
-        url: /
+        url: /makebox
         icon: arrowRight
         iconPosition: right
         style: secondary
