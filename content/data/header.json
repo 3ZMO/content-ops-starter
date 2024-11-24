@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "BMobile Apps",
+            "label": "Mobile Apps",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
