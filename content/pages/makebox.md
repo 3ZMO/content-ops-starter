@@ -31,7 +31,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: '[Creative exercise]'
       color: text-primary
     colors: bg-light-fg-dark
     styles:
