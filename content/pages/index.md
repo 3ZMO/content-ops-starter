@@ -214,7 +214,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/Cubes1a.svg
+      url: /images/Cubes1b.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
