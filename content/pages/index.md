@@ -10,7 +10,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Where Ideas Become Reality
+    subtitle: 'Useful, Productive, and Fun Applications'
     items:
       - type: FeaturedItem
         title: 500k
