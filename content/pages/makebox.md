@@ -12,7 +12,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/3ZMO Logo Full Flat.svg
+      url: /images/3ZMO Logo Full Flat2.png
       altText: Fun feature preview
     badge:
       type: Badge
