@@ -15,8 +15,9 @@ sections:
       - type: FeaturedItem
         title: Ai
         subtitle: Integration
-        text: |
-          Leveraging the power of Ai to create powerful experiences.
+        text: >
+          Leveraging the power of Ai to create powerful and enhanced
+          experiences.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
