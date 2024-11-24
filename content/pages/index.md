@@ -116,16 +116,7 @@ sections:
     text: >
       When Apps become your personal friend and partner, helping you succeed in
       life and in business.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/heropic2DropShadow.png
       altText: Unblock your imagination
