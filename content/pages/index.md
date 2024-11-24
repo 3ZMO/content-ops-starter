@@ -13,7 +13,7 @@ sections:
     subtitle: 'Useful, Productive, and Fun Applications'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Ai
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
