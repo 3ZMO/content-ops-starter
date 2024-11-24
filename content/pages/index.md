@@ -141,7 +141,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Rapid Evolution
       color: text-primary
       type: Badge
     elementId: ''
