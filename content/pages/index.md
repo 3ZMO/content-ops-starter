@@ -139,7 +139,7 @@ sections:
           - pr-16
   - subtitle: This Could Be Your Domain
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Drinks.Cool.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
