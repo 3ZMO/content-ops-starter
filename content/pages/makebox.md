@@ -8,9 +8,7 @@ sections:
       text: Make a Box
       color: text-dark
     subtitle: 'Print, Cut, Fold, Tape'
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: ''
     actions:
       - type: Button
         label: Get started
