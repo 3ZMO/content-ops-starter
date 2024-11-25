@@ -123,7 +123,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Rapid Evolution
+      label: '[Rapid Evolution]'
       color: text-primary
       type: Badge
     elementId: ''
